@@ -30,7 +30,7 @@ class HomeIndex extends React.Component {
                         <p>I've worked with Relational Databases (<strong>Postgres</strong> and <strong>MySQL</strong>), containerization using <strong>Docker</strong> and front-end web frameworks like <strong>React</strong> & <strong>Bootstrap</strong>.</p>
                         </break>
                         <ul className="actions">
-                            <li><a href="https://docs.google.com/gview?url=https://github.com/ybekele/ybekele.github.io/raw/master/YonaelBekeleCV.pdf" className="button">Resume</a></li>
+                            <li><a href="https://docs.google.com/gview?url=https://github.com/ybekele/Gatsby-Portfolio/raw/master/Yonael_Bekele_2020.pdf" className="button">Resume</a></li>
                         </ul>
                     </section>
 
